@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookHub2", "BookHub2\BookHub2.csproj", "{71AB3A2D-2F83-4517-AEAE-24124F73FB46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookHub.Web", "BookHub2\BookHub.Web.csproj", "{71AB3A2D-2F83-4517-AEAE-24124F73FB46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookHub.DataAccess", "BookHub.DataAccess\BookHub.DataAccess.csproj", "{771C61D7-F24C-48F6-AEE6-EA99F5012911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookHub.DataAccess", "BookHub.DataAccess\BookHub.DataAccess.csproj", "{771C61D7-F24C-48F6-AEE6-EA99F5012911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookHub.Models", "BookHub.Models\BookHub.Models.csproj", "{F8B7ED6E-7715-41E4-856E-66542737BF4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookHub.Models", "BookHub.Models\BookHub.Models.csproj", "{F8B7ED6E-7715-41E4-856E-66542737BF4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookHub.Utility", "BookHub.Utility\BookHub.Utility.csproj", "{09C44FD0-E9C5-4A23-A144-CC2A663C49FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookHub.Utility", "BookHub.Utility\BookHub.Utility.csproj", "{09C44FD0-E9C5-4A23-A144-CC2A663C49FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
